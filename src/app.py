@@ -3,7 +3,6 @@ from flask.json import jsonify
 from flask import Response
 from users import users
 
-
 ####
 #from flask_mysqldb import MySQL
 ####
